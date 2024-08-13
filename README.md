@@ -35,7 +35,7 @@ The scripts in this repository are designed to load and process the MIMIC-III fi
 
 1. **Clone the repository**:
     ```sh
-    git clone [<repository_url>](https://github.com/felipe-matsuoka123/MIMIC-III-Extubation-Failure-Analysis)
+    git clone https://github.com/felipe-matsuoka123/MIMIC-III-Extubation-Failure-Analysis
     cd MIMIC-III-Extubation-Failure-Analysis
     ```
 
