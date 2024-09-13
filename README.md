@@ -5,6 +5,7 @@ Repository for analyzing extubation failure in ICUs using the MIMIC-III dataset.
 ## Repository Content
 
 MIMICIII_dataprocessing.ipynb - Notebook with the code that selects IMV patients 
+
 heart_rate.ipynb - Notebook with the code for gathering the HR data from the MIMIC-III dataset and match them with the selected patients
 
 ## Objective
